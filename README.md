@@ -1,7 +1,7 @@
 # WonderlandAI Workshop
 Better Predictions with Ensemble Learning at Wonderland AI 2019
 
-You can find the presentation [here](".Better Predictions with Ensemble Learning.pdf")
+You can find the presentation [here](.Better Predictions with Ensemble Learning.pdf)
 
 00_MLP_Variance:
 * [Colab](https://colab.research.google.com/drive/1Ass7OHu4AEhrlxufKAU8U1Xem2mLuNA3)
