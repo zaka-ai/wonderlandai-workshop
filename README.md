@@ -6,22 +6,22 @@ You can find the presentation [here](https://drive.google.com/open?id=1VRLpE7Cf7
 ### Hands-on coding examples
 To edit the Colab code, click "COPY TO DRIVE" or **File** then **Save a copy in Drive…** <br />
 
-00_MLP_Variance:
+**00_MLP_Variance**:
 * [Colab](https://colab.research.google.com/drive/1Ass7OHu4AEhrlxufKAU8U1Xem2mLuNA3)
 * [Jupyter Notebook](./notebooks/00_MLP_Variance.ipynb)
 
 
-01_Model_Averaging_Ensemble:
+**01_Model_Averaging_Ensemble**:
 * [Colab](https://colab.research.google.com/drive/1GQ46ibWJlY_2N5NfNN5vsakKR45CrYSd)
 * [Jupyter Notebook](./notebooks/01_Model_Averaging_Ensemble.ipynb)
 
 
-02_Weighted_Average_Ensemble:
+**02_Weighted_Average_Ensemble**:
 * [Colab](https://colab.research.google.com/drive/1me1uKXhtF8BERqX5OqhCCAiMph_vJnKx)
 * [Jupyter Notebook](./notebooks/02_Weighted_Average_Ensemble.ipynb)
 
 
-03_Resampling_Ensembles:
+**03_Resampling_Ensembles**:
 * [Colab](https://colab.research.google.com/drive/1mZuehC6l22zsvusIHzofuimqMjLJBgR0)
 * [Jupyter Notebook](./notebooks/03_Resampling_Ensembles.ipynb)
 
