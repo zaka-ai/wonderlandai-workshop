@@ -21,3 +21,6 @@ You can find the presentation [here](https://drive.google.com/open?id=1VRLpE7Cf7
 03_Resampling_Ensembles:
 * [Colab](https://colab.research.google.com/drive/1mZuehC6l22zsvusIHzofuimqMjLJBgR0)
 * [Jupyter Notebook](./notebooks/03_Resampling_Ensembles.ipynb)
+
+
+This workshop was prepared and presented by [Christophe Zoghbi](https://www.linkedin.com/in/christophezoghbi/)
