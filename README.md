@@ -1,7 +1,9 @@
 # WonderlandAI Workshop
-Better Predictions with Ensemble Learning at Wonderland AI 2019
+## Better Predictions with Ensemble Learning at Wonderland AI 2019
 
 You can find the presentation [here](https://drive.google.com/open?id=1VRLpE7Cf7eRVdG071y9Zmvgi0Fnl7l_o)
+
+### Hands-on coding examples
 
 00_MLP_Variance:
 * [Colab](https://colab.research.google.com/drive/1Ass7OHu4AEhrlxufKAU8U1Xem2mLuNA3)
